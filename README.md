@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+ 
 <!--
 **madtema/madtema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:star: Bookmarks:
+ - [Cisco IOS Commands Tree for CCNA](https://gist.github.com/madtema/fe4ecfdb0fc650f406ae0c0fa43d0eb4 "helpful")
